@@ -1,0 +1,15 @@
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\bin\Release\net7.0\Csharp avançado.exe
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\bin\Release\net7.0\Csharp avançado.deps.json
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\bin\Release\net7.0\Csharp avançado.runtimeconfig.json
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\bin\Release\net7.0\Csharp avançado.dll
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\bin\Release\net7.0\Csharp avançado.pdb
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.csproj.AssemblyReference.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.AssemblyInfoInputs.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.AssemblyInfo.cs
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.csproj.CoreCompileInputs.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.dll
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\refint\Csharp avançado.dll
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.pdb
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\Csharp avançado.genruntimeconfig.cache
+C:\Users\Administ\Desktop\Curso Csharp\C# Avançado\Csharp avançado\obj\Release\net7.0\ref\Csharp avançado.dll
